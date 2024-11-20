@@ -1,5 +1,3 @@
-Esteban Peluffo - T00081095
-Ronaldo Rojas - T00076558
 
 #include <stdio.h>
 #include <windows.h>
